@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGDB.API", "IGDB.API\IGDB.API.csproj", "{FE918CE0-AAD8-486C-B278-EE99FB3295BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{B9DB0A5B-5441-463E-8482-3194B01BFB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAWG.API", "RAWG.API\RAWG.API.csproj", "{D11841B7-3041-435D-AF14-3C697508FEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE918CE0-AAD8-486C-B278-EE99FB3295BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE918CE0-AAD8-486C-B278-EE99FB3295BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE918CE0-AAD8-486C-B278-EE99FB3295BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE918CE0-AAD8-486C-B278-EE99FB3295BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DB0A5B-5441-463E-8482-3194B01BFB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DB0A5B-5441-463E-8482-3194B01BFB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DB0A5B-5441-463E-8482-3194B01BFB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DB0A5B-5441-463E-8482-3194B01BFB53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11841B7-3041-435D-AF14-3C697508FEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11841B7-3041-435D-AF14-3C697508FEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11841B7-3041-435D-AF14-3C697508FEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11841B7-3041-435D-AF14-3C697508FEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CAB043-0B05-4ED4-8CF3-8EF2AA182778}
+	EndGlobalSection
+EndGlobal
